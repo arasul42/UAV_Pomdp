@@ -1,0 +1,16 @@
+# Julia / VS Code
+Manifest.toml
+.julia/
+.vscode/
+*.DS_Store
+
+# OS cruft
+Thumbs.db
+
+# Build & artifacts
+deps/build/
+artifacts/
+*.ipynb_checkpoints/
+
+# Generated media (your sim GIFs)
+*.gif
